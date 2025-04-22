@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "demoproject-fdefe",
+    "demo": "demoproject-fdefe"
+  },
+  "targets": {},
+  "etags": {}
+}
